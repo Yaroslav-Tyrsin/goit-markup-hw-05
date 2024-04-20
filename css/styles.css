@@ -451,13 +451,13 @@ img {
   display: inline-block;
 }
 
-.footer-flex > div {
-  margin-right: 120px;
-}
-
 .footer-spam {
   color: #f4f4fd;
   margin-bottom: 17.5px;
+}
+
+.footer-container {
+  margin-left: auto;
 }
 
 .footer-text {
